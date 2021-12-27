@@ -1,0 +1,12 @@
+body {
+    background-color: lightskyblue;
+}
+
+.header
+{
+	color: white;font-family: 'lobster';font-size: 45px;letter-spacing: 10px;margin-top: 80px;
+}
+#username
+{
+  color: lightgreen;font-family: 'oswald';font-size: 25px; 
+}
